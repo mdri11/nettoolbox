@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: Report bugs and request features via GitHub Issues
+- **Issues**: Report bugs and request features via GitHub Issues or Report security issues privately to daviddark1900@gmail.com
 - **Documentation**: Additional documentation available in `docs/` directory
 - **Community**: Join our Discord server for discussions and support
 
@@ -252,6 +252,7 @@ This tool is for educational and authorized testing purposes only. The developer
 **Made with ❤️ by the NetToolbox project Team**
 
 *Stay secure, scan responsibly! 🔐*
+
 
 
 
