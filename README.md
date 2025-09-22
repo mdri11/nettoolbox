@@ -249,8 +249,9 @@ This tool is for educational and authorized testing purposes only. The developer
 
 ---
 
-**Made with ❤️ by the NetToolbox Team**
+**Made with ❤️ by the NetToolbox project Team**
 
 *Stay secure, scan responsibly! 🔐*
+
 
 
